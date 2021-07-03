@@ -1,0 +1,8 @@
+name: 'Restaurant Test Theme'
+type: theme
+description: 'a test theme for Restaurants'
+core: 8.x
+base theme: classy
+
+libraries:
+  - restauranttest/global-styling

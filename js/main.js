@@ -1,3 +1,5 @@
-jQuery(document).ready(function() {
-  alert('Welcome to our test popup! :)');
-});
+// jQuery(document).ready(function() {
+// });
+
+// js code here // 
+  console.log('console output to verify :)');
